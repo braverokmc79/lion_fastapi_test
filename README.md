@@ -1,5 +1,13 @@
 # 🚀 FastAPI CRUD 예제
 
+
+### 파이썬·장고 웹개발 | 코담 - 코드에 세상을 담다
+
+[![코담 소개 이미지](https://codam.kr/assets/images/og-image.jpg)](https://codam.kr/)
+
+---
+
+
 FastAPI를 이용한 간단한 CRUD API 예제입니다.
 `items.py`에 정의된 라우터를 통해 아이템 데이터를 생성, 조회, 수정, 삭제할 수 있습니다.
 
